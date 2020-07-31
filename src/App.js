@@ -5,6 +5,8 @@ import BannerMain from './components/BannerMain';
 import Carousel from './components/Carousel';
 import Footer from './components/Footer';
 
+//Estudar tags utilizadas após a div!
+
 function App() {
   return (
     <div style={{background: "#141414"}}>
