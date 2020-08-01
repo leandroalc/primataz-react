@@ -15,7 +15,7 @@ function App() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo} 
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa!"}
+        videoDescription={"Programador Junior? Saiba quais conhecimentos e práticas são necessários para você se considerar um programador ou programadora junior. Descubra agora com o Lucas Montano!"}
       />
 
       <Carousel 

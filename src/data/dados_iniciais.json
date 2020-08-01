@@ -10,8 +10,8 @@
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Programador Junior, quando posso me considerar um?",
+          "url": "https://www.youtube.com/watch?v=wBbFLgW54x4"
         },
         {
           "titulo": "SEO com React",
@@ -104,25 +104,25 @@
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Vingadores Ultimato",
+          "url": "https://www.youtube.com/watch?v=ZEsj7j-UwNA"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Jumanji: Bem-vindo à Selva",
+          "url": "https://www.youtube.com/watch?v=tnpV3q8Q3gg"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Até o Último Homem",
+          "url": "https://www.youtube.com/watch?v=4s4UCxCv_OE"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Velozes e Furiosos 9",
+          "url": "https://www.youtube.com/watch?v=NnDGWyfP7q4"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Jogos",
       "cor": "red",
       "link_extra": {
         "text": "Formação de Jogos na Alura",
@@ -152,8 +152,8 @@
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
+      "titulo": "Como aprender tecnologia",
+      "cor": "#0029FA",
       "link_extra": {
         "text": "Curso sobre aprendizado na Alura",
         "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
