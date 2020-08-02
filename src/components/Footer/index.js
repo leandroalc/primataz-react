@@ -6,7 +6,7 @@ function Footer() {
   return (
     <FooterBase>
       <a href="/">
-        <img src={Logo} alt="Logo Primataz" width="200px"/>
+        <img src={Logo} alt="Logo Primataz" width="160px"/>
       </a>
       <p>
         Orgulhosamente criado durante a
