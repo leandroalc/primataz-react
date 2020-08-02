@@ -23,7 +23,7 @@ const Container = styled.ul`
     left: 0;
   }
   .slick-next {
-    right: 16px;
+    right: 20px;
   }
 `;
 
@@ -37,16 +37,16 @@ export const SliderItem = styled.li`
   }
 `;
 
-
 const Slider = ({ children }) => (
   <Container>
     <SlickSlider {...{
+      centerMode: false,
       dots: false,
       infinite: false,
-      speed: 300,
-      centerMode: false,
+      speed: 200,
       variableWidth: true,
       adaptiveHeight: true,
+      slidesToShow: 4,
     }}
     >
       {children}
